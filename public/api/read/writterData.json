@@ -1,0 +1,23 @@
+{
+	"success": true,
+	"data": {
+		"userInfo": {
+			"userImg": "",
+			"username": "爱吃胡椒的小汤圆",
+			"fansNum": "12万",
+			"readingNum": "500万"
+		},
+		"moreArticleList": [
+			{
+				"id": 123,
+				"title": "变了味的《德军总部》？新作《新血液》Steam评价褒贬不一",
+				"readingNum": "123万"
+			},
+			{
+				"id": 133,
+				"title": "一周游戏之最：骑砍玩家惊坐起 TI刀友愤难平一",
+				"readingNum": "113万"
+			}
+		]
+	}
+}

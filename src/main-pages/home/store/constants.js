@@ -1,0 +1,3 @@
+export const CHANGE_HOMEDATA = 'home/CHANGE_HOMEDATA';
+export const ADD_MORE_ARTICLE = 'home/ADD_MORE_ARTICLE';
+export const CHANGE_SCROLL_BTN = 'home/CHANGE_SCROLL_BTN';

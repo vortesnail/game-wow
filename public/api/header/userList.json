@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "data": [ 
+        {
+            "id": 12321312,
+            "userImg": "",
+            "username": "游民星空",
+            "jia": "35",
+            "w": "22",
+            "level": "3",
+            "indexEx": "60",
+            "personalURL": "",
+            "articleURL": "",
+            "propertyURL": ""
+        }
+    ]
+}

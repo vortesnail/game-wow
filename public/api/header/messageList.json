@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1213123,
+            "username": "游民星空",
+            "replyNum": "3",
+            "replyHref": "/",
+            "atNum": "0",
+            "atHref": "/",
+            "zanNum": "11",
+            "zanHref": "/",
+            "myMessageNum": "0",
+            "myMessageHref": "/",
+            "systemMessageNum": "0",
+            "systemMessageHref": "/"
+        }
+    ]
+}
